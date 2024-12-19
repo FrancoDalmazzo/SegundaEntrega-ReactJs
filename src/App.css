@@ -1,0 +1,12 @@
+#root {
+
+  margin: 0 ;
+  padding:0;
+  text-align: center;
+}
+
+.producto img, .cart-item img, .detalle-producto img {
+  width: 200px; /* Tamaño uniforme */
+  height: auto;
+  border-radius: 10px;
+}
